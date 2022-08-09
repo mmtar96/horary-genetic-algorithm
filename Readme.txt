@@ -1,4 +1,4 @@
-GENETIC ALGORITHM
+~ GENETIC ALGORITHM ~
 yOU CAN apply this kind of algorithms in differents problem to get a solucion easier. This code is only an example to implement it.
 
 The objective of this algorithm is to generate two schedules so that it is possible for teachers to teach all classes and for students to attend all classes. 
