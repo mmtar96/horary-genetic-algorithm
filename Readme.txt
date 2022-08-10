@@ -1,5 +1,5 @@
 ~ GENETIC ALGORITHM ~
-yOU CAN apply this kind of algorithms in differents problem to get a solucion easier. This code is only an example to implement it.
+You can apply this kind of algorithms in differents problem to get a solucion easier. This code is only an example to implement it.
 
 The objective of this algorithm is to generate two schedules so that it is possible for teachers to teach all classes and for students to attend all classes. 
 For this purpose, the following algorithm is implemented based on the theory of evolution in which, starting from a totally random solution, we will obtain the 
